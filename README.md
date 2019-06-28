@@ -22,11 +22,33 @@
 * Chave primária uma ou mais colunas que não possuem registros repetidos.
 * Chave estrangeira ligação entre campos de tabelas do mesmo tipo(tabela pai e tabela filho).
 * Tabela filho tem que ter um registro associado na tabela pai.
-* índice facilitam a busca por elementos.
+* ÌndiceS facilitam a busca por elementos(Integridade Relacional)
 * No Mysql esquema = banco de dados.
-* Views
+* Views uma tabela lógica feita através de uma consulta.
 * Consulta
-* Stored Procedures - Programas estruturados para consultas complexas (Não respeitam o padrão ANSI).
-* 
+* Stored Procedures - Programas estruturados para operações complexas (Não respeitam o padrão ANSI).
+* Trigger são regras que são executadas quando algo é feito no banco.(Gatilhos).
+* unsigned para não trabalhar com valores negativos.
+* Tipo de dado float ou double, bit(binário)
+* Zerofill Preenche com zeros os espaços.
+* Auto_increment - Sequencia auto incrementada.
+* out of range - Valores maiores que o tipo suporta.
+* Campos de data (date,datetime,timestamp,time,year).
+* Campos de string (char, varchar, binary, varbinary, blob, text).
+* Enum - lista Pré definida.
+* set e collate - Conjunto de caracteres - utf8.
+* Spacial - (Geometry, point, lifestring,polygon).
+* Projeto de banco de dados.
+* Modelo Entidade Relacionamento(Análise de requisitos, modelagem)
+* Modelo conceitual (Diagrama entidade e Relacionamento).
+* Diagrama viram esquemas de tabelas.
+* Ferramentas case facilitam a construção do banco.
+
+
+
+
+
+
+
 
 
