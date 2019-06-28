@@ -24,5 +24,9 @@
 * Tabela filho tem que ter um registro associado na tabela pai.
 * índice facilitam a busca por elementos.
 * No Mysql esquema = banco de dados.
+* Views
+* Consulta
+* Stored Procedures - Programas estruturados para consultas complexas (Não respeitam o padrão ANSI).
 * 
+
 
