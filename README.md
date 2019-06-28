@@ -22,7 +22,7 @@
 * Chave primária uma ou mais colunas que não possuem registros repetidos.
 * Chave estrangeira ligação entre campos de tabelas do mesmo tipo(tabela pai e tabela filho).
 * Tabela filho tem que ter um registro associado na tabela pai.
-* ÌndiceS facilitam a busca por elementos(Integridade Relacional)
+* ÌndiceS facilitam a busca por elementos(Integridade Relacional) 
 * No Mysql esquema = banco de dados.
 * Views uma tabela lógica feita através de uma consulta.
 * Consulta
@@ -43,6 +43,10 @@
 * Modelo conceitual (Diagrama entidade e Relacionamento).
 * Diagrama viram esquemas de tabelas.
 * Ferramentas case facilitam a construção do banco.
+
+### Criando a estrutura do banco de dados
+* DBA o profissional responável por administrar o banco de dados.
+* 
 
 
 
