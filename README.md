@@ -46,8 +46,17 @@
 
 ### Criando a estrutura do banco de dados
 * DBA o profissional responável por administrar o banco de dados.
-* 
 
+### Incluindo dados nas tabelas.
+* Aprendemos a incluir dados em uma tabela, através de comando;
+* Vimos a inclusão de vários registros em um único comando;
+* Foi mostrado como incluir dados na tabela através de um assistente;
+* Mostramos como incluir dados usando um arquivo externo.
+
+### Alterando e excluindo dados existentes nas tabelas
+* Alterar e excluir dados de uma tabela, através de comando ou em lotes;
+* Vimos que podemos alterar ou excluir todos os dados de uma tabela;
+* O que é uma transação e como podemos desfazer modificações efetuadas anteriormente na base de dados.
 
 
 
