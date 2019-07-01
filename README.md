@@ -58,7 +58,7 @@
 * Vimos que podemos alterar ou excluir todos os dados de uma tabela;
 * O que é uma transação e como podemos desfazer modificações efetuadas anteriormente na base de dados.
 
-
+###  Auto incremento, padrões e Triggers
 
 
 
