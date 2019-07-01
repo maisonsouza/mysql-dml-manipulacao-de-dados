@@ -59,7 +59,9 @@
 * O que é uma transação e como podemos desfazer modificações efetuadas anteriormente na base de dados.
 
 ###  Auto incremento, padrões e Triggers
-
+* Vimos como funciona campos de auto incremento;
+* Aprendemos a determinar valores padrões para os campos;
+* Foi mostrado como trabalhar com TRIGGERs para executar comandos no momento da inclusão, alteração e exclusão de registros.
 
 
 
